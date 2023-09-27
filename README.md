@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{Sami-Wafula}/count.svg)
+
 
 <h1 align="center">Hi 👋, I'm Sami-Wafula</h1>
 
