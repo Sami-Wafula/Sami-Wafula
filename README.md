@@ -5,7 +5,7 @@
 - 🎥 I’m currently building: **A personal blogging platform**
 
 - 🌱 I’m currently learning: **Web Development**
-
+<h1 align="center"></h1>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sami-Wafula&count_private=true)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sami-Wafula&show_icons=true&count_private=true)) -->
