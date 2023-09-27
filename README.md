@@ -1,3 +1,7 @@
+![Visitor Count](https://profile-counter.glitch.me/{Sami-Wafula}/count.svg)
+
+<h1 align="center">Hi 👋, I'm Sami-Wafula</h1>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sami-Wafula&count_private=true)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sami-Wafula&show_icons=true&count_private=true)) -->
